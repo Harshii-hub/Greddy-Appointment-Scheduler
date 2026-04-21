@@ -1,13 +1,14 @@
 🏥 Hospital Appointment Operations Portal
 <p align="center">
-<img width="734" height="589" alt="Screenshot 2026-04-21 145747" src="https://github.com/user-attachments/assets/0ddfe464-1002-4a0f-a30c-c42c016f7c91" />
+<src="https://github.com/user-attachments/assets/0ddfe464-1002-4a0f-a30c-c42c016f7c91" />
  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"> <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> </p>
 ✨ Overview
 A modern hospital scheduling web app built using Streamlit that helps manage patient appointments efficiently.
 It uses a Greedy Algorithm (Activity Selection Problem) to optimize schedules and avoid overlapping appointments.
 
 🎥 Preview
-<p align="center"> <img src="https://github.com/user-attachments/assets/db4a5039-1d41-4854-b91e-df815fe551ba" width="80%" /> <br><br> <img src="https://github.com/user-attachments/assets/d0112517-b266-4c34-8504-4ef27c20e4b3" width="80%" /> </p>
+<p align="center"><img width="734" height="589" alt="Screenshot 2026-04-21 145747" src="https://github.com/user-attachments/assets/516f3083-1076-44a2-b725-e6db3c8a8e59" />
+ <img src="https://github.com/user-attachments/assets/db4a5039-1d41-4854-b91e-df815fe551ba" width="80%" /> <br><br> <img src="https://github.com/user-attachments/assets/d0112517-b266-4c34-8504-4ef27c20e4b3" width="80%" /> </p>
 🚀 Features
 ✨ Smart & Clean UI
 🔐 Secure Login System
