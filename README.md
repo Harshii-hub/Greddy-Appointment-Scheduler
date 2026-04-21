@@ -12,6 +12,8 @@ This system allows users to add, view, and optimize patient schedules using a Gr
 ⚡ AI-Based Schedule Optimizer
 
 📊 Dashboard with Live Metrics
+"C:\Users\HP\Downloads\Screenshot 2026-04-21 145747.png"
+
 
 💾 SQLite Database Integration
 
