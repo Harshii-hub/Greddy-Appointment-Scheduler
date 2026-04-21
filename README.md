@@ -1,5 +1,7 @@
 🏥 Hospital Appointment Operations Portal
-<p align="center"> <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"> <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> </p>
+<p align="center">
+<img width="734" height="589" alt="Screenshot 2026-04-21 145747" src="https://github.com/user-attachments/assets/0ddfe464-1002-4a0f-a30c-c42c016f7c91" />
+ <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit"> <img src="https://img.shields.io/badge/Python-Backend-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> </p>
 ✨ Overview
 A modern hospital scheduling web app built using Streamlit that helps manage patient appointments efficiently.
 It uses a Greedy Algorithm (Activity Selection Problem) to optimize schedules and avoid overlapping appointments.
